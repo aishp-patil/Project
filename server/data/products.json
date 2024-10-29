@@ -1,0 +1,6 @@
+[
+    { "id": "1", "name": "Product A", "provider": "Provider A" },
+    { "id": "2", "name": "Product B", "provider": "Provider B" },
+    { "id": "3", "name": "Product C", "provider": "General Partner" }
+  ]
+  
